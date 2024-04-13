@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Rock Paper Scissor Game
 
 A simple Rock Paper Scissor game implemented using HTML,CSS and JavaScript.
 
